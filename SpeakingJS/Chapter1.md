@@ -130,15 +130,15 @@ Number('xyz') -> NaN
 
 ### Operators
 
-Addition: number1 + number2
-Subtraction: number1 - number2
-Multiplication: number1 * number2
-Division: number1 / number2
-Remainder: number1 % number2
-Increment: ++variable, variable++
-Decrement: --variable, variable--
-Negate: -value
-Convert to number: +value
+* Addition: number1 + number2
+* Subtraction: number1 - number2
+* Multiplication: number1 * number2
+* Division: number1 / number2
+* Remainder: number1 % number2
+* Increment: ++variable, variable++
+* Decrement: --variable, variable--
+* Negate: -value
+* Convert to number: +value
 
 ## Strings
 
